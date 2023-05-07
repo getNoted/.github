@@ -25,6 +25,9 @@ Noted uses the [Editorjs](https://editorjs.io/) to provide a rich text editor fo
 ## Some ScreenShots
 ![image](https://user-images.githubusercontent.com/56102033/187416691-0adb4c73-6da7-4dc9-a7ad-09b5f0722cf8.png)
 
+
+## Demo Video : https://youtu.be/VwF-O-xY7bQ
+
 ## Tech Stack
 
 Noted is built using the following technology stack:
